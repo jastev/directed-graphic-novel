@@ -1,0 +1,18 @@
+[submodule "dgn-node"]
+	path = dgn-node
+	url = https://github.com/jastev/dgn-node
+[submodule "dgn-csharp"]
+	path = dgn-csharp
+	url = https://github.com/jastev/dgn-csharp
+[submodule "dgn-go"]
+	path = dgn-go
+	url = https://github.com/jastev/dgn-go
+[submodule "dgn-java"]
+	path = dgn-java
+	url = https://github.com/jastev/dgn-java
+[submodule "dgn-python"]
+	path = dgn-python
+	url = https://github.com/jastev/dgn-python
+[submodule "dgn-ruby"]
+	path = dgn-ruby
+	url = https://github.com/jastev/dgn-ruby
