@@ -16,3 +16,6 @@
 [submodule "dgn-ruby"]
 	path = dgn-ruby
 	url = https://github.com/jastev/dgn-ruby
+[submodule "dgn-client"]
+	path = dgn-client
+	url = https://github.com/jastev/dgn-client
